@@ -1,0 +1,19 @@
+{
+  "name": "crud-practice",
+  "version": "1.0.0",
+  "description": "CRUD Node.js practice application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Timothy Russell",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
